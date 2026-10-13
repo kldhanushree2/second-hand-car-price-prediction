@@ -1,0 +1,4 @@
+Model,MAE (₹),RMSE (₹),R²
+Gradient Boosting,69903.06,112700.85,0.94
+Random Forest,73154.12,128897.88,0.92
+Linear Regression,93098.65,188694.49,0.84
